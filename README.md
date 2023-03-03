@@ -1,2 +1,2 @@
-# big-data
-Contiene todas las clases de la asignatura Big Data
+# Maestría en analítica de datos de la Universidad Central
+Contiene el material relevante de todas las asignaturas vistas.
